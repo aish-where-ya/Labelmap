@@ -1,0 +1,25 @@
+item {
+    id: 1
+    name: 'Atelectasis'
+}item {
+    id: 2
+    name: 'Cardiomegaly'
+}item {
+    id: 3
+    name: 'Effusion'
+}item {
+    id: 4
+    name: 'Infiltrate'
+}item {
+    id: 5
+    name: 'Mass'
+}item {
+    id: 6
+    name: 'Nodule'
+}item {
+    id: 7
+    name: 'Pneumonia'
+}item {
+    id: 8
+    name: 'Pneumothorax'
+}
